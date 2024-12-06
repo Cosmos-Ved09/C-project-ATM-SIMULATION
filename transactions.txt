@@ -1,0 +1,21 @@
+Withdrawal of Rs.56000 | Balance: Rs.5597165.00 | Tue Oct 01 15:10:37 2024
+Withdrawal of Rs.250000 | Balance: Rs.5347165.00 | Tue Oct 01 15:11:18 2024
+Deposit | User: VedVyas | Amount: Rs.5000000 | New Balance: Rs.5010000.00 | Date: Tue Oct 01 15:49:49 2024
+Deposit of Rs.10000 | Balance: Rs.5357165.00 | Tue Oct 01 16:07:51 2024
+Deposit | User: Ved Vyas | Amount: Rs.15000 | New Balance: Rs.25000.00 | Date: Tue Oct 01 16:08:46 2024
+Deposit | User: Ved Vyas | Amount: Rs.250000 | Balance: Rs.260000.00 | Tue Oct 01 16:27:46 2024
+Deposit | User: Ravi Sharma | Amount: Rs.56000 | Balance: Rs.61000.00 | Tue Oct 01 16:30:57 2024
+Deposit | User: Ved Vyas | Amount: Rs.500000 | Balance: Rs.510000.00 | Tue Oct 01 16:39:39 2024
+Deposit | User: Ved Vyas | Amount: Rs.15000 | Balance: Rs.525000.00 | Tue Oct 01 16:40:26 2024
+Withdrawal | User: Ravi Sharma | Amount: Rs.500 | Balance: Rs.4500.00 | Tue Oct 01 20:36:43 2024
+Deposit | User: Ved Vyas | Amount: Rs.0 | Balance: Rs.10000.00 | Tue Oct 01 20:37:50 2024
+Deposit | User: Ved Vyas | Amount: Rs.56000 | Balance: Rs.66000.00 | Sat Oct 05 14:14:41 2024
+Deposit | User: Ved Vyas | Amount: Rs.3000 | Balance: Rs.13000.00 | Fri Oct 18 10:15:36 2024
+Deposit | User: Ravi Sharma | Amount: Rs.5000 | Balance: Rs.10000.00 | Fri Oct 18 22:00:56 2024
+Deposit | User: Ved Vyas | Amount: Rs.50000 | Balance: Rs.60000.00 | Sat Nov 16 12:08:56 2024
+Deposit | User: Ved Vyas | Amount: Rs.5000 | Balance: Rs.15000.00 | Sat Nov 16 12:13:38 2024
+Deposit | User: Ved Vyas | Amount: Rs.5000 | Balance: Rs.15000.00 | Sat Nov 16 14:58:19 2024
+Deposit | User: Ved Vyas | Amount: Rs.50000 | Balance: Rs.60000.00 | Wed Nov 27 21:32:47 2024
+
+Deposit | User: Ved Vyas | Amount: Rs.5000 | Balance: Rs.15000.00 | Fri Nov 29 09:36:11 2024
+Withdrawal | User: Ved Vyas | Amount: Rs.2500 | Balance: Rs.12500.00 | Fri Nov 29 09:36:29 2024
